@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ConsoleApp_imdb.CRUD;
+using ConsoleApp_imdb.Linq;
+
+
